@@ -1,5 +1,4 @@
 
 public class helloworld {
-	
-	System.out.prinntln("hello world");
+	System.out.println("hello world");
 }
